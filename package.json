@@ -1,0 +1,10 @@
+{
+  "name": "kofferklein",
+  "version": "1.0.0",
+  "main": "klein.js",
+  "dependencies": {
+    "aws-sdk": "^2.104.0",
+    "eyes": "^0.1.8",
+    "xml2js": "^0.4.18"
+  }
+}
