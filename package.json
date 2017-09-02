@@ -1,5 +1,5 @@
 {
-  "name": "kofferklein",
+  "name": "lambda-feed-alerts",
   "version": "1.0.0",
   "main": "klein.js",
   "dependencies": {
